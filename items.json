@@ -1,6 +1,10 @@
 {
     "2": {
-        "name": "Mobile",
+        "name": "laptop",
+        "price": 35000.0
+    },
+    "3": {
+        "name": "vignesh",
         "price": 35000.0
     }
 }
