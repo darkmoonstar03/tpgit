@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--background);
+  color: var(--foreground);
+  overflow: hidden;
+  /* Prevent body scroll, let individual areas scroll */
+}
